@@ -64,4 +64,4 @@ update tb_personagens set defesa = 1300 where id = 8;*/
 
 /*select * from tb_personagens where defesa > 1000 and defesa < 2000;*/
 
-/*select * from tb_personagens where nome like 'Melgor';*/
+/*select * from tb_personagens where nome like '%c%';*/
